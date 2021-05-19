@@ -10,7 +10,7 @@ class UserauthApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assertTrue(true)
+		assertTrue(true);
 	}
 
 }
